@@ -1,0 +1,163 @@
+!
+! Title: AdGuard DNS Whitelist for Synology Domains
+! Description: List cWhitelist for use with Adguard to allow Synology apps to properly function
+! Homepage: https://github.com/cCloudTVEPG/Synology
+! Last modified: 2023-12-17
+!
+! Compiled by @cCloudTVEPG
+!
+!
+! Source name: AdGuard DNS Synology Whitelist
+! Source: https://cCloudTVEPG.github.io/Synology/Whitelist.txt
+!
+!
+!
+!
+||global.download.synology.com^
+||global.synologydownload.com^
+||update7.synology.com^
+||autoupdate7.synology.com^
+||autoupdate7.synology.cn^
+||
+||payment.synology.com^
+||account.synology.com^
+||cndl.synology.cn (Only for China)^
+||global.download.synology.com^
+||download.synology.com^
+||www.synology.com^
+||www.synology.com/company/term_packagecenter.php^
+||pkgautoupdate7.synology.com^
+||pkgautoupdate7.synology.cn^
+||pkgupdate7.synology.com^
+||pkgautoupdate.synologyupdate.com^
+||global.synologydownload.com^
+||api.insight.synology.com^
+||collectorupdate7.synology.com^
+||collectorautoupdate7.synology.com^
+||collectorautoupdate7.synology.cn ^
+||subscribe.insight.synology.com^
+||supapi.synology.com^
+||synoconf.synology.com^
+||synoconfkms.synology.com^
+||account.synology.com^
+||ddns.synology.com^
+||checkip.synology.com^
+||checkip.dyndns.org^
+||checkipv6.synology.com^
+||gofile.me^
+||help.synology.com^
+||checkport.synology.com^
+||sns.synology.com^
+||notification.synology.com^
+||global.quickconnect.to^
+||global.quickconnect.cn (Only for China)^
+||twc.quickconnect.to^
+||usc.quickconnect.to^
+||dec.quickconnect.to^
+||cnc.quickconnect.cn (Only for China)^
+||tylp.lp.cs.quickconnect.to^
+||orlp.lp.cs.quickconnect.to^
+||frlp.lp.cs.quickconnect.to^
+||cnlp.lp.cs.quickconnect.cn (Only for China)^
+||cnp1.punch.cs.quickconnect.cn (Only for China)^
+||cnp2.punch.cs.quickconnect.cn (Only for China)^
+||typ1.punch.cs.quickconnect.to^
+||typ2.punch.cs.quickconnect.to^
+||orp1.punch.cs.quickconnect.to^
+||orp2.punch.cs.quickconnect.to^
+||frp1.punch.cs.quickconnect.to^
+||frp2.punch.cs.quickconnect.to^
+||frp3.punch.cs.quickconnect.to^
+||frp4.punch.cs.quickconnect.to^
+||signal1.cn.webrtc.quickconnect.cn (Only for China)^
+||signal2.cn.webrtc.quickconnect.cn (Only for China)^
+||signal1.fr.webrtc.quickconnect.to^
+||signal2.fr.webrtc.quickconnect.to^
+||signal3.fr.webrtc.quickconnect.to^
+||signal4.fr.webrtc.quickconnect.to^
+||signal1.or.webrtc.quickconnect.to^
+||signal2.or.webrtc.quickconnect.to^
+||signal1.ty.webrtc.quickconnect.to^
+||signal2.ty.webrtc.quickconnect.to^
+||twr1.re.cs.quickconnect.to^
+||twr2.re.cs.quickconnect.to^
+||twr5.re.cs.quickconnect.to^
+||twr6.re.cs.quickconnect.to^
+||twr7.re.cs.quickconnect.to^
+||twr8.re.cs.quickconnect.to^
+||czr1.re.cs.quickconnect.to^
+||czr2.re.cs.quickconnect.to^
+||der3.re.cs.quickconnect.to^
+||der4.re.cs.quickconnect.to^
+||der7.re.cs.quickconnect.to^
+||der8.re.cs.quickconnect.to^
+||frr2.re.cs.quickconnect.to^
+||frr3.re.cs.quickconnect.to^
+||frr4.re.cs.quickconnect.to^
+||jpr4.re.cs.quickconnect.to^
+||jpr5.re.cs.quickconnect.to^
+||sgr3.re.cs.quickconnect.to^
+||sgr4.re.cs.quickconnect.to^
+||usr1.re.cs.quickconnect.to^
+||usr2.re.cs.quickconnect.to^
+||usr5.re.cs.quickconnect.to^
+||usr6.re.cs.quickconnect.to^
+||cnr1.re.cs.quickconnect.cn (Only for China)^
+||cnr2.re.cs.quickconnect.cn (Only for China)^
+||cnr3.re.cs.quickconnect.cn (Only for China)^
+||cnr4.re.cs.quickconnect.cn (Only for China)^
+||apiauth.quickconnect.to^
+||checkipv6.quickconnect.to^
+||checkip.webrtc.quickconnect.cn^
+||checkip.webrtc.quickconnect.to^
+||orch.lp.cs.quickconnect.to^
+||frch.lp.cs.quickconnect.to^
+||cnch.lp.cs.quickconnect.cn ^
+||download.synology.com/routerdb^
+||dataupdate.synology.com^
+||account.synology.com^
+||kb.synology.com^
+||www.synology.com/company/legal/Services_Data_Collection_Disclosure#technical-support^
+||www.synology.com/company/legal/privacy^
+||dataupdate7.synology.com^
+||dataautoupdate7.synology.com^
+||dataautoupdate7.synology.cn^
+||report.synology.com/upload.php^
+||myds.synology.com^
+||license.synology.com^
+||database.clamav.net^
+||myds.synology.com^
+||update.nai.com^
+||account.synology.com^
+||payment.synology.com^
+||myds.synology.com^
+||docker.io^
+||identity.eu.c2.synology.com^
+||identity.tw.c2.synology.com^
+||identity.us.c2.synology.com^
+||ldap.identity.eu.c2.synology.com^
+||ldap.identity.tw.c2.synology.com^
+||ldap.identity.us.c2.synology.com^
+||update.synology.com^
+||synocloudsync.synology.com^
+||codecstatistic.synology.com/codec_feedback.php^
+||docker.io^
+||registry-1.docker.io^
+||registry.hub.docker.com^
+||index.docker.io^
+||dev.aliyun.com^
+||update.synology.com/filehostupdate/getfilehosts.php^
+||update.synology.com/btsearchupdate/getServerInfo.php^
+||eu.c2.synology.com ^
+||tw.c2.synology.com ^
+||us.c2.synology.com ^
+||license.synology.com^
+||utyupdate.synology.com^
+||synosurveillance.synology.com^
+||update.synology.com^
+||global.download.synology.com^
+||global.synologydownload.com^
+||global.geo.synology.com/multilingual_reverse.php^
+||help.synology.com/spreadsheet/^
+
+!
